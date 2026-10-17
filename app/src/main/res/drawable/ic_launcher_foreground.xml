@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Simple pantry shelf icon in white -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,35 L88,35 L88,40 L20,40 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,60 L88,60 L88,65 L20,65 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,85 L88,85 L88,90 L20,90 Z"/>
+    <!-- Jar shapes on shelves -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,25 Q32,20 38,20 Q44,20 44,25 L44,35 L32,35 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M55,22 Q55,17 61,17 Q67,17 67,22 L67,35 L55,35 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M35,50 Q35,44 40,44 Q45,44 45,50 L45,60 L35,60 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,47 Q60,41 66,41 Q72,41 72,47 L72,60 L60,60 Z"/>
+</vector>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LazyCart</string>
+    <!-- Content descriptions for accessibility -->
+    <string name="cd_navigate_back">Navigate back</string>
+    <string name="cd_add_item">Add new pantry item</string>
+    <string name="cd_delete_item">Delete item</string>
+    <string name="cd_log_consumption">Log consumption</string>
+    <string name="cd_mark_purchased">Mark as purchased</string>
+    <!-- Tab labels -->
+    <string name="tab_home">Home</string>
+    <string name="tab_pantry">Pantry</string>
+    <string name="tab_shopping">Shopping</string>
+    <string name="tab_settings">Settings</string>
+    <!-- Empty states -->
+    <string name="empty_pantry">No items yet.\nAdd your first grocery!</string>
+    <string name="empty_shopping">Your shopping list is empty.</string>
+    <string name="empty_runs_out_soon">Your pantry is well stocked!</string>
+    <!-- Error messages -->
+    <string name="error_quantity_invalid">Please enter a valid quantity greater than 0</string>
+    <string name="error_name_empty">Item name cannot be empty</string>
+    <!-- Notification strings -->
+    <string name="notif_restock_title">Time to restock %1$s</string>
+    <string name="notif_restock_body">You have about %1$.0f days of %2$s left.</string>
+    <string name="notif_expiry_title">%1$s is expiring soon</string>
+    <string name="notif_expiry_body">%1$s expires on %2$s. Use it before it goes to waste.</string>
+</resources>

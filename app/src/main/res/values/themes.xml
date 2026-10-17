@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base theme — this is required for the status bar while the Compose surface loads.
+         Actual visual theming happens in Compose via LazyCartTheme. -->
+    <style name="Theme.LazyCart" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
