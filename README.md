@@ -16,8 +16,6 @@
 
 ## 📌 Executive Summary
 
-Quick commerce services like **Swiggy Instamart** have revolutionized household logistics by delivering groceries in 10–15 minutes. However, the recurring challenge for urban households is not delivery speed—it is **predictive awareness**: remembering what is running out before the carton of milk or packet of bread is completely empty.
-
 **LazyCart** is a 100% native Android smart pantry application designed to eliminate that friction. By tracking localized pantry inventory and household consumption frequency, LazyCart employs a mathematical restock prediction engine that forecasts when essentials will run out.
 
 - **Zero Cloud Dependency:** Runs 100% on-device using Room SQLite and Jetpack DataStore. No external servers, no third-party telemetry, zero latency, and absolute privacy.
