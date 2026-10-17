@@ -232,22 +232,6 @@ Execute the unit test suite from the terminal or Android Studio:
 
 ---
 
-## 🔮 Roadmap & Future Opportunities
-
-- [ ] **Swiggy Instamart Deep Linking:** One-tap export from the LazyCart shopping list directly into Swiggy Instamart carts via Android Intents/Universal Links.
-- [ ] **Barcode Scanning (ML Kit):** Fast item addition by scanning Indian FMCG barcodes (EAN-13) using on-device Google ML Kit.
-- [ ] **Receipt OCR Scanning:** Automated ingestion of physical or digital grocery bills to populate pantry inventory in seconds.
-- [ ] **Household Multi-User Sync:** Optional peer-to-peer or lightweight cloud synchronization for shared family kitchens.
-- [ ] **Seasonal & Trend-Aware Machine Learning:** Adapting prediction models to account for weekend spikes and seasonal purchasing shifts.
-
----
-
-## 💡 Why This Demonstrates Android Engineering Competency
-
-LazyCart showcases modern Android development standards: Clean MVVM architectural separation isolates the pure Kotlin prediction domain from the UI, ensuring complete unit testability without Android SDK dependencies. State management leverages unidirectional data flow with Room and Kotlin Flow, providing reactive, thread-safe updates to Jetpack Compose while managing coroutine cancellation via `viewModelScope`. Furthermore, the scheduled alert pipeline demonstrates battery-conscious lifecycle awareness through WorkManager periodic constraints and modern Android 14 notification channel handling.
-
----
-
 ## 📄 License
 
 ```
